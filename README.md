@@ -13,8 +13,3 @@ pip install PyQt6
 ```
 python main.py
 ```
-
-```
-```
-```
-```
